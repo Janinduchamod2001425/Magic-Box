@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Magic Box</string>
+    <string name="time_remaining_02_00">Time remaining: 02:00</string>
+    <string name="submit">Done</string>
+    <string name="high_score_0">Best Time : 0</string>
+    <string name="start_game">Start Game</string>
+
+    <string name="game_instructions">
+        Unlock the Magic, Solve the Puzzle.
+    </string>
+
+    <string name="first_instruction">
+        🟥 Fill in the 3x3 grid with numbers from 1 to 9.\n
+    </string>
+
+    <string name="second_instruction">
+        🟦 Each row, column, and diagonal should sum up to 15.\n
+    </string>
+
+    <string name="third_instruction">
+        🟨 Solve the puzzle before the timer runs out!\n (Only 1 Minute)
+    </string>
+
+    <string name="greet">
+        Good luck!
+    </string>
+
+    <string name="instructions">Instructions</string>
+    <string name="instruct_title">Welcome to the Magic Box game!</string>
+    <string name="next">Next</string>
+    <string name="instruction_1">Instruction 1</string>
+    <string name="finishing_time">Finishing Time:</string>
+    <string name="replay">Replay</string>
+    <string name="exit">Exit</string>
+    <string name="tap_the_magic_box_to_navigate_the_home">Tap the Magic box to navigate to Home</string>
+    <string name="if_you_finish_the_puzzle_click_the_done_button">If you finish the puzzle click the Done button</string>
+    <string name="magic_box">Magic Box</string>
+    <string name="about">About</string>
+    <string name="dive_into_the_enchanting_world_of_the_magic_box_game_challenge_your_mind_with_this_captivating_puzzle_game_that_combines_strategy_and_skill_solve_the_mystical_puzzle_by_arranging_numbers_in_a_3x3_grid_so_that_each_row_column_and_diagonal_adds_up_to_the_magical_number_15_with_its_intuitive_gameplay_and_mesmerizing_visuals_magic_box_offers_memorable_fun_for_players_of_all_ages">Dive into the enchanting world of the Magic Box game! Challenge your mind with this captivating puzzle game that combines strategy and skill. Solve the mystical puzzle by arranging numbers in a 3x3 grid so that each row, column, and diagonal adds up to the magical number 15. With its intuitive gameplay and mesmerizing visuals, Magic Box offers memorable fun for players of all ages.</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="developer_janindu_chamod">Developer : Janindu Chamod</string>
+    <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="sliit_undergraduate">SLIIT Undergraduate</string>
+    <string name="about_game">About</string>
+    <string name="instruction_2">Instruction 2</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="instruction_3">Instruction 3</string>
+
+</resources>
